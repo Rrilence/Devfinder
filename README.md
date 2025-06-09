@@ -31,7 +31,7 @@ The interface design is provided for various types of devices.
 
 ## **No result**
 <p align="center">
-<img  src="./readme_assets/NoResult.png" width="20%">
+<img  src="./readme_assets/NoResult.png" width="40%">
 </p>
 
 ## I invite you to see my other projects.
